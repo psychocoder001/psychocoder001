@@ -1,4 +1,4 @@
-👋 Hi there! I'm [Psychocoder]
+👋 Hi there! I'm Psychocoder, [We're Not Crazy, Just Passionate About Pixels.]
 
 [![JavaScript Badge](https://img.shields.io/badge/language-JavaScript-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![DSA Badge](https://img.shields.io/badge/topic-Data%20Structures%20&%20Algorithms-blue)](https://en.wikipedia.org/wiki/Data_structure)
